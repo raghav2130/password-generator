@@ -44,3 +44,5 @@ Usage:
     • Adjust the slider to select the desired password length.
     • Check the options for including lowercase letters, uppercase letters, and digits as needed.
     • Click the "Generate Password" button to generate and automatically copy the password to the clipboard.
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
